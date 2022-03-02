@@ -2,6 +2,7 @@
   "name": "nft-punks",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://testnets-api.opensea.io/assets?asset_contract_address=0x90606Ee39FA56b399eaAaDC4D08DA513535161Bd&order_direction=asc",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
